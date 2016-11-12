@@ -1,0 +1,20 @@
+{
+  "name": "hypernova-react-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hypernova": "^2.0.0",
+    "hypernova-client": "^1.1.0",
+    "hypernova-react": "^2.0.0",
+    "react": "^15.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "node index.js",
+    "start": "node client.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
